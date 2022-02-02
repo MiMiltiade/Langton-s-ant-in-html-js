@@ -1,13 +1,13 @@
 # Langton-s-ant-in-html-js
-an Langton's ant without canvas
+The Langton's ant without a canvas
 
-This is an other version of Langton's ant;
+This is another version of Langton's ant;
 
-that ant is a simple cellular automata whit a strange behavior before 10.000 iterations.
-In fact she begin to do an 'highway' like she want to escape the program. 
+That ant is a simple cellular automata with a strange behavior before 10,000 iterations.
+In fact she begins to do a 'highway' as if she wants to escape the program. 
 
-That version was made without Canvas, but with a grid in html/css created in Javascript with an array.
+This version was made without a Canvas, but with a grid in html/css created in Javascript with an array.
 
-To enjoy it, push the space bar and wait 10.000 iterations to see the magic happening.
+To discover it, tap the space bar and wait 10,000 iterations to see the magic happen.
 
-Enjoy
+Enjoy !
