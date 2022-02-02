@@ -4,7 +4,7 @@ The Langton's ant without a canvas
 This is another version of Langton's ant;
 
 That ant is a simple cellular automata with a strange behavior before 10,000 iterations.
-In fact she begins to do a 'highway' as if she wants to escape the program. 
+In fact it begins to do a 'highway' as if it wants to escape the program. 
 
 This version was made without a Canvas, but with a grid in html/css created in Javascript with an array.
 
